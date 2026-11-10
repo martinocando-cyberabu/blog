@@ -38,8 +38,8 @@ a:hover { text-decoration: underline; }
 .site-nav { margin-top: 56px; font-size: 14px; }
 .site-nav .group { margin-bottom: 26px; }
 .site-nav .group-title {
-  display: block; color: var(--heading); font-weight: 700; text-transform: uppercase;
-  font-size: 14px; margin-bottom: 10px; letter-spacing: .02em;
+  display: block; color: var(--heading); font-weight: 700;
+  font-size: 14px; margin-bottom: 10px;
 }
 .site-nav .group a:not(.group-title) { display: block; color: var(--nav); font-weight: 400; line-height: 23px; }
 .site-nav .group a.nav-link { color: var(--heading); font-weight: 700; }
